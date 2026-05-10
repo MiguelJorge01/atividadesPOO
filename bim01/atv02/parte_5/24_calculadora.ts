@@ -16,3 +16,5 @@ const calc = new Calculadora();
 console.log(calc.somar(10, 5));
 console.log(calc.subtrair(10, 5));
 console.log(calc.multiplicar(10, 5));
+
+export {}

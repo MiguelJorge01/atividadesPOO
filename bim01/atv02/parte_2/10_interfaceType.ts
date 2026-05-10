@@ -19,3 +19,5 @@ function matricular(aluno: Aluno, turma: Turma): void {
 }
 
 matricular(aluno, "1TADS");
+
+export {}

@@ -31,3 +31,5 @@ ter reatribuiçao, ou seja, tem um valor constante
 console.log(numeroSomar);
 console.log(resultado);
 console.log(idade);
+
+export {}

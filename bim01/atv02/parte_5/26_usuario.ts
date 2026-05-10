@@ -17,3 +17,5 @@ console.log(visitante.nome); // Visitante
 
 const usuario = new Usuario("Maria");
 console.log(usuario.nome); // Maria
+
+export {}

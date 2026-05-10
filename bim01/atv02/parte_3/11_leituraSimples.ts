@@ -8,3 +8,5 @@ console.log(`\nResumo:`);
 console.log(`Nome: ${nome}`);
 console.log(`Idade: ${idade}`);
 console.log(`Cidade: ${cidade}`);
+
+export {}

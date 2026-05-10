@@ -105,3 +105,5 @@ droide1.usarHabilidade()
 
 mandaloriano1.apresentar()
 mandaloriano1.usarHabilidade()
+
+export {}

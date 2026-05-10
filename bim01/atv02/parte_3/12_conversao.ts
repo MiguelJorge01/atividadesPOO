@@ -7,3 +7,5 @@ const num1: number = Number(entrada1);
 const num2: number = Number(entrada2);
 
 console.log(`Soma: ${num1 + num2}`);
+
+export {}

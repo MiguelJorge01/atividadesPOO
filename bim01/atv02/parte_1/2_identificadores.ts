@@ -22,3 +22,5 @@ let professorFavorito = "Nelson"
 
 // let @usuario = "admin";
 // Erro: "@"" não é um caractere valido em identificadores
+
+export {}

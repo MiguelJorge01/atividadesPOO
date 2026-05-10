@@ -33,6 +33,7 @@ class Aluno extends Pessoa {
     }
 }
 
-
 const aluno1 = new Aluno("Miguel", 19, "20251CAS10010029", "TADS");
 const pessoa1 = new Pessoa("Nelson", 96);
+
+export {}

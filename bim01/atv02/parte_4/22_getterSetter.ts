@@ -24,3 +24,5 @@ console.log(temp.celsius); // 25
 temp.celsius = -300; // erro
 temp.celsius = 100;
 console.log(temp.celsius); // 100
+
+export {}

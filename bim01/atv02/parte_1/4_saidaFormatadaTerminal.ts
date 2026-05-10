@@ -10,3 +10,5 @@ console.log(`
     2ª nota: ${nota2}
     Nota média: ${media}
 `)
+
+export {}

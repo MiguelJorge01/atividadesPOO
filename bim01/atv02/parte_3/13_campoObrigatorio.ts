@@ -10,3 +10,5 @@ function obrigatorio(valor: string, nomeCampo: string): boolean {
 
 const nome = readline.question("Digite seu nome: ");
 obrigatorio(nome, "nome");
+
+export {}

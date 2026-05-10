@@ -34,3 +34,5 @@ console.log(lampada.estaLigada()); // true
 lampada.desligar();
 console.log(lampada.estaLigada()); // false
 lampada.desligar();                // já tava desligada
+
+export {}

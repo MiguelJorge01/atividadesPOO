@@ -21,3 +21,5 @@ const tv = new Televisao();
 console.log(`Canal atual: ${tv.getCanal()}`); // 1
 tv.setCanal(5);
 console.log(`Canal atual: ${tv.getCanal()}`); // 5
+
+export {}

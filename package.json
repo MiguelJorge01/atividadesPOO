@@ -1,0 +1,21 @@
+{
+  "name": "atividadespoo",
+  "version": "1.0.0",
+  "description": "Atividades de POO em TypeScript",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/readline-sync": "^1.4.8",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}

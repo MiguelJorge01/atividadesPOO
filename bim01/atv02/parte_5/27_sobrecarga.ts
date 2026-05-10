@@ -16,3 +16,5 @@ class Saudacao {
 const saudacao = new Saudacao();
 saudacao.exibir("Miguel");           // Olá, Miguel!
 saudacao.exibir("Nelson", "Prof."); // Olá, Prof. Nelson!
+
+export {}

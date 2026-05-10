@@ -19,3 +19,5 @@ function validarInteiro(valor: string): boolean {
 
 const entrada = readline.question("Digite um número inteiro: ");
 validarInteiro(entrada);
+
+export {}

@@ -13,3 +13,4 @@ enum PerfilUsuario {
     GUEST
 }
 
+export {}

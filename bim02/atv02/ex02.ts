@@ -18,3 +18,5 @@ class Carro extends Veiculo {
 }
 
 const carro1 = new Carro("Nissan", "Livina (Esportivo)", 2);
+
+export {}

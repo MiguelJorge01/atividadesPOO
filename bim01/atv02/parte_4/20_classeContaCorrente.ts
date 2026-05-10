@@ -44,3 +44,5 @@ conta.exibirDados();
 conta.depositar(500);
 conta.sacar(200);
 conta.consultarSaldo();
+
+export {}

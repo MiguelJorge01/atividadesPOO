@@ -40,3 +40,5 @@ if (nomeValido && idade !== null && nota !== null) {
   console.log(`Idade: ${idade}`);
   console.log(`Nota final: ${nota}`);
 }
+
+export {}

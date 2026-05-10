@@ -14,3 +14,5 @@ class Pessoa {
 
 const pessoa = new Pessoa("Miguel", 19);
 pessoa.apresentar();
+
+export {}

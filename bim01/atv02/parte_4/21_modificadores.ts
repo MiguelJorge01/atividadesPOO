@@ -46,3 +46,5 @@ console.log(conta.validarSenha("1234")); // funciona via método
 const carro = new Carro(180);
 carro.exibirVelocidade(); // funciona via método da subclasse
 // console.log(carro.velocidadeMaxima); // erro: protected não é acessível fora da classe
+
+export {}

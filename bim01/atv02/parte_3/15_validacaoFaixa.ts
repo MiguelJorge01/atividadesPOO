@@ -8,3 +8,5 @@ if (isNaN(idade) || idade < 0 || idade > 120) {
 } else {
   console.log(`Idade válida: ${idade}`);
 }
+
+export {}

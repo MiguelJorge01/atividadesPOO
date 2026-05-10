@@ -23,3 +23,5 @@ class Gerente extends Funcionario {
 }
 
 const gerente1 = new Gerente("Nerson", 50000.00)
+
+export {}

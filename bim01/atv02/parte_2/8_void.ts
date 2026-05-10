@@ -3,3 +3,5 @@ function exibirMensagem(mensagem: string): void {
 }
 
 exibirMensagem("Olá, TypeScript!");
+
+export {}

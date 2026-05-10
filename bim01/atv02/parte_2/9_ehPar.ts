@@ -4,3 +4,5 @@ function ehPar(numero: number): boolean {
 
 console.log(ehPar(4));  // true
 console.log(ehPar(7));  // false
+
+export {}

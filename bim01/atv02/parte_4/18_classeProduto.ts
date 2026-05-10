@@ -42,3 +42,5 @@ const produto = new Produto("Notebook", 3500, 10);
 produto.exibirProduto();
 produto.adicionarEstoque(5);
 produto.removerEstoque(3);
+
+export {}

@@ -19,3 +19,5 @@ class Retangulo {
 const retangulo = new Retangulo(5, 3);
 console.log(`Área: ${retangulo.calcularArea()}`);
 console.log(`Perímetro: ${retangulo.calcularPerimetro()}`);
+
+export {}
