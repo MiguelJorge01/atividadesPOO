@@ -59,7 +59,7 @@ class Coordenador extends Pessoa {
 
     exibirDados(): void {
         console.log(`
-            ===== PROFESSOR =====
+            ===== COORDENADOR =====
             Nome: ${this.nome}
             Idade: ${this.idade}
             Funcao: ${this.funcao}
@@ -74,3 +74,5 @@ const coordenador1 = new Coordenador("Herbert", 40, "Coordenar");
 aluno1.exibirDados();
 professor1.exibirDados();
 coordenador1.exibirDados();
+
+export {};
