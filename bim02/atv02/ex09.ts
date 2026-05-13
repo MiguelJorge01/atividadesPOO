@@ -75,7 +75,7 @@ const aluno1 = new Aluno("Miguel", 19, "202510010029");
 const aluno2 = new Aluno("Natan", 25, "202505005024");
 
 const professor1 = new Professor("Mr. Bellincanta", 30, "POO");
-const professor2 = new Professor("Mr. da Rosa", 30, "BDII")
+const professor2 = new Professor("Mr. da Rosa", 30, "BDII");
 
 aluno1.exibirDados()
 aluno2.exibirDados()
